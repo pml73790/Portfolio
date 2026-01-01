@@ -240,8 +240,8 @@ export default function Portfolio() {
                     setMobileMenuOpen(false);
                   }}
                   className={`block w-full text-left capitalize hover:text-pink-500 hover:bg-white/20 transition-all duration-200 font-medium py-3 px-2 rounded ${activeSection === section
-                      ? 'text-pink-500 bg-white/20'
-                      : 'text-gray-700'
+                    ? 'text-pink-500 bg-white/20'
+                    : 'text-gray-700'
                     }`}
                 >
                   {section}
@@ -257,7 +257,7 @@ export default function Portfolio() {
           <div className="space-y-4 animate-fade-in">
             <div className="inline-block mb-6">
               <img
-                src="/headshot.jpg"
+                src={process.env.PUBLIC_URL + "/headshot.jpg"}
                 alt="My Phuong Ly"
                 className="w-40 h-40 md:w-48 md:h-48 rounded-full mx-auto object-cover border-4 border-pink-300 shadow-lg"
               />
