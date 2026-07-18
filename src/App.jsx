@@ -167,7 +167,7 @@ I’m especially interested in combining development with project delivery for e
           <span className="date">Feb 2025</span>
         </div>
         <p className="stem-msg">Hackathon Participant — UGA Hacks X</p>
-        <p className="stem-org">Athens, GA · 24-hour build</p>
+        <p className="stem-org">Athens, GA · 48-hour build</p>
         <ul className="leaflist">
           <li>Built a personalized financial web app with an AI chatbot for real-time, tailored advice</li>
           <li>Took on Truist Bank's hyper-personalization challenge, designing wireframes and UX prototypes in Figma</li>
