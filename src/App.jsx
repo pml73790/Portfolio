@@ -77,7 +77,8 @@ function App() {
     <div className="hero-copy">
       <p className="eyebrow">Software Engineer</p>
       <h1>My Ly</h1>
-      <p className="bio">B.S. in Computer Science. Reliable and dedicated, I enjoy working closely with teams to deliver successful outcomes.</p>
+      <p className="bio">Software engineer who enjoys building scalable solutions and working across teams to bring ideas to life 👷‍♀️🌱
+I’m especially interested in combining development with project delivery for efficient, high-quality results</p>
       <div className="cta-row">
         <a className="btn primary" href="mailto:lyphuongmy03@gmail.com">Email me</a>
         <a className="btn" href="https://github.com/pml73790" target="_blank" rel="noopener">GitHub</a>
