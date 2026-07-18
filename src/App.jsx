@@ -76,7 +76,7 @@ function App() {
   <div className="wrap hero-flex">
     <div className="hero-copy">
       <p className="eyebrow">Software Engineer</p>
-      <h1>My Ly</h1>
+      <h1>My Phuong Ly</h1>
       <p className="bio">Software engineer who enjoys building scalable solutions and working across teams to bring ideas to life 👷‍♀️🌱
 I’m especially interested in combining development with project delivery for efficient, high-quality results</p>
       <div className="cta-row">
